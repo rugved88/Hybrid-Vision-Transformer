@@ -41,10 +41,8 @@ These results underscore the ViT+LSTM model's prowess, offering a glimpse into t
 
 ## 📁 Repository Structure
 
-- `vit_lstm_model/`: Implementation heartland of the ViT+LSTM model.
-- `data/`: Sample data - the beginning of your journey.
-- `notebooks/`: Interactive Jupyter notebooks - your guide to understanding our model.
-- `results/`: Dive into our comprehensive evaluation results and analyses.
+- `codes/`: Implementation heartland of the 3D_CNN ,ViT+LSTM model.
+- `dataset/`: contains the dataset.
 
 ## 🚶 Getting Started
 
