@@ -9,8 +9,6 @@ The dataset integral to our research comprises two key components: Myocardium Ma
 
 Complementing the image data, the ToS ground truth component consists of a one-dimensional array containing 126 data points for each patient. This results in a data shape of (128, 126), representing the 128 patients and their corresponding 126 ToS values. The ToS data is crucial for our study as it provides the target values for the predictive modeling, enabling the evaluation of the model's accuracy in predicting clinically relevant outcomes.
 
-[Download the Checkpoints](https://drive.google.com/file/d/1fBz7bSd58DL6DF55DreUcDWrv28V5_W_/view?usp=sharing)
-
 
 
 <div style="text-align:center;">
