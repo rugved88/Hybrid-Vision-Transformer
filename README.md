@@ -4,6 +4,11 @@
 
 In the rapidly evolving field of cardiac image analysis, traditional methods are being augmented by Convolutional Neural Network architectures.  Our research introduces a groundbreaking approach by applying the Hybrid Vision Transformer (ViT) model, to the domain of cardiac imaging. Transformers originally designed for natural language processing tasks are now giving promosing results on the image regression task. This repository contains our implementation of the novel Hybrid ViT + LSTM model aimed at predicting Target Organ Status (TOS) values from myocardium mask image sequences.
 
+## 📸 Dataset Info
+The dataset integral to our research comprises two key components: Myocardium Masks and Target Organ Status (ToS) ground truth data as shown in figure \ref{fig:dataset}. The Myocardium Masks image dataset consists of data from 128 patients. For each patient, there is a sequence of 25 frames, with each frame having a resolution of 80x80 pixels. This forms a data structure with a shape of (128, 80, 80, 25), indicating that the dataset includes 128 patients, each represented by a series of 25 images with a resolution of 80x80 pixels. These images provide a comprehensive view of myocardial structure and function over time, essential for analyzing cardiac health and pathology.
+
+Complementing the image data, the ToS ground truth component consists of a one-dimensional array containing 126 data points for each patient. This results in a data shape of (128, 126), representing the 128 patients and their corresponding 126 ToS values. The ToS data is crucial for our study as it provides the target values for the predictive modeling, enabling the evaluation of the model's accuracy in predicting clinically relevant outcomes.
+
 [Download the Checkpoints](https://drive.google.com/file/d/1fBz7bSd58DL6DF55DreUcDWrv28V5_W_/view?usp=sharing)
 
 
