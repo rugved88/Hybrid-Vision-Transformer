@@ -50,3 +50,6 @@ Embark on your journey with these simple steps:
 1. **Clone the Repository**
    ```bash
    gh repo clone rugved88/Hybrid-Vision-Transformer
+
+2. [Download the Checkpoints](https://drive.google.com/your_shareable_link_here)
+
