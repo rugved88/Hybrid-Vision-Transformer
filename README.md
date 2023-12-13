@@ -5,7 +5,9 @@
 In the rapidly evolving field of cardiac image analysis, traditional methods are being augmented by advanced neural network architectures. Our research introduces a groundbreaking approach by applying the Vision Transformer (ViT) model, originally designed for natural language processing tasks, to the domain of cardiac imaging. This repository contains our implementation of the novel Hybrid ViT + LSTM model aimed at predicting Target Organ Status (TOS) values from myocardium mask image sequences.
 
 
-![Hybrid ViT + LSTM Architecture](path/to/vit_lstm_architecture.png)
+![Hybrid ViT + LSTM Architecture](images_1/vit.png)
+![Hybrid ViT + LSTM Architecture](images_1/VIT_LSTM.png)
+
 
 *Figure 1: Hybrid ViT + LSTM Model Architecture*
 
