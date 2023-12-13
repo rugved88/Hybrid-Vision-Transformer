@@ -53,3 +53,6 @@ Embark on your journey with these simple steps:
 
 2. [Download the Checkpoints](https://drive.google.com/your_shareable_link_here)
 
+
+Authors: Rugved Chavan, Naeem Patel, Rishabh Jain, Ishita Gupta
+
