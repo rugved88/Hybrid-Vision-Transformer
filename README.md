@@ -1,4 +1,4 @@
-# Hybrid ViT + LSTM for Advanced Cardiac Image Analysis
+# Hybrid ViT + LSTM for Advanced Cardiac Image Regression in Analysis
 
 ## 🚀 Overview
 
