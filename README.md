@@ -4,7 +4,7 @@
 
 In the rapidly evolving field of cardiac image analysis, traditional methods are being augmented by advanced neural network architectures. Our research introduces a groundbreaking approach by applying the Vision Transformer (ViT) model, originally designed for natural language processing tasks, to the domain of cardiac imaging. This repository contains our implementation of the novel Hybrid ViT + LSTM model aimed at predicting Target Organ Status (TOS) values from myocardium mask image sequences.
 
-[Download the Checkpoints](https://drive.google.com/your_shareable_link_here)
+[Download the Checkpoints](https://drive.google.com/file/d/1fBz7bSd58DL6DF55DreUcDWrv28V5_W_/view?usp=sharing)
 
 
 
@@ -51,7 +51,7 @@ Embark on your journey with these simple steps:
    ```bash
    gh repo clone rugved88/Hybrid-Vision-Transformer
 
-2. [Download the Checkpoints](https://drive.google.com/your_shareable_link_here)
+2. [Download the Checkpoints](https://drive.google.com/file/d/1fBz7bSd58DL6DF55DreUcDWrv28V5_W_/view?usp=sharing)
 
 
 Authors: Rugved Chavan, Naeem Patel, Rishabh Jain, Ishita Gupta
