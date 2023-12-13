@@ -40,4 +40,4 @@ Embark on your journey with these simple steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository-url]
+   gh repo clone rugved88/Hybrid-Vision-Transformer
